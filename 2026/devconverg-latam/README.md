@@ -1,6 +1,6 @@
 # DevConverg LATAM 🤝
 
-📍 Brazil      
+📍 NuBank Spark     
 📅 05th September 2026  
 🏷️ Technology Community, Volunteering and Networking
 
