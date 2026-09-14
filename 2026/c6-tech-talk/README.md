@@ -1,6 +1,6 @@
 # C6 Technology Talk 💛
 
-📍 C6 Bank  
+📍 C6 Bank  c
 📅 27th August 2026  
 🏷️ Technology, Business, Innovation and Career
 
