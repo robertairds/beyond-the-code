@@ -1,7 +1,7 @@
 # AWS Summit 2026 ☁️
 
 📍 São Paulo, Brazil  
-📅 2026  
+📅 3rd September 2026  
 🏷️ Cloud Computing, Artificial Intelligence and Innovation
 
 ## About the event
