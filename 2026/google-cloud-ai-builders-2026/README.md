@@ -1,6 +1,6 @@
 # Google Cloud AI Builders 2026 🤖☁️
 
-📍 Brazil  
+📍 Brazil   
 📅 26th August 2026  
 🏷️ Artificial Intelligence, Cloud, Security and Innovation
 
