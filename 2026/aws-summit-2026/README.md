@@ -35,7 +35,7 @@ It also involves people, business, innovation, communication and continuous lear
 
 This experience made me even more excited about the path I am building in technology.
 
-## Related post
+## Related post  
 
 [LinkedIn post about AWS Summit](https://www.linkedin.com/posts/robertarodrigues2_awssummit-awssummit-aws-activity-7501680320333807616-fhbk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADqEVwEBGDM6d_ldvqNqz1-juCfU54rH1PE)
 
